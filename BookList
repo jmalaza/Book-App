@@ -1,0 +1,47 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "The Silent Wife ",
+    "ratings": 3,
+    "author": "A.S.A HARRSISON",
+    "publisher": "Addison-Wesley, 2000",
+    "image": "https://img.allw.mn/content/books/2013/08/1_the-silent-wife_600x918.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Tears Of Endurance ",
+    "ratings": 2,
+    "author": "D.G TORRENS",
+    "publisher": "Addison-Wesley, 2000",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41rsn1CYKFL._SX311_BO1,204,203,200_.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Secret Revenge",
+    "ratings": 4,
+    "author": "T.N LOWE",
+    "publisher": "Que E & T, 1998",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543808138l/43084848._SY475_.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Bedfellow",
+    "ratings": 4,
+    "author": "JEREMY C. SHIPP",
+    "publisher": "Simon and Schuster, 1975",
+    "image": "http://prodimage.images-bn.com/pimages/9781250175281.jpg"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "The New Neighbor",
+    "ratings": 5,
+    "author": "RAY GARTON",
+    "publisher": "Greenwood Publishing Group, 2006",
+    "image": "https://book-assets.openroadmedia.com/9781497627680-book-cover.jpg"
+  }
+]
